@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "https://parallelum.com.br/fipe/api/v1/carros/marcas/93"
+BASE_URL = "https://parallelum.com.br/fipe/api/v1/carros"
 
 st.title("Consulta FIPE Simples 🚗")
 
